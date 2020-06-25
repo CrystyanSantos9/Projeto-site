@@ -1,0 +1,26 @@
+html{
+    font-family: 'Roboto', sans-serif;
+}
+
+.container{
+    display: flex;
+    box-sizing: border-box;
+    flex-direction: row;
+    justify-content: space-between;
+}
+
+header h1{
+    text-align: center;
+}
+
+body{
+    margin:0;
+    padding: 0;
+}
+
+article{
+    width: 280px;
+    background-color: cornflowerblue;
+    padding: 10px;
+    margin: 10px;
+}
